@@ -7,4 +7,26 @@
     "studerende": true,
     "interesser": ["Golf", "Musik", "Design"],
     "fødselsdato": 21
+}
+
+{
+    "navn": {
+        "fornavn": "Teis",
+        "mellemnavn": ["Zacho", "Kahr"],
+        "efternavn": "Thornberg"
+    },
+    "kontakt": [
+        {"telefon": "28125122"},
+        {"e-mail": "teiszacho@gmail.com"}
+    ],
+    "alder": 30,
+    "studerende": true, 
+    "arbejdsplads": "Berlingske Media",
+    "intersesser": ["madlavning", "musik", "sangskrivning"],
+    "adresse": {
+        "vej": "Sandbjerggade 27",
+        "lejlighed": "3TV",
+        "by": "København",
+        "postnummer": "2200"
+    }
 }]
