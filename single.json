@@ -1,8 +1,13 @@
 [{
     "navn": {
         "fornavn": "Christian",
+        "mellemnavn": ["McLeod", "Drevsholt"],
         "efternavn": "Ditlevsen"
     },
+    "kontakt": [
+        {"telefon": "30327769"},
+        {"e-mail": "chriller2003@gmail.com"}
+    ],
     "alder": 30,
     "studerende": true,
     "interesser": ["Golf", "Musik", "Design"],
