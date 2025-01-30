@@ -7,7 +7,7 @@
     "studerende": true,
     "interesser": ["Golf", "Musik", "Design"],
     "fødselsdato": 21
-}
+},
 
 {
     "navn": {
@@ -29,4 +29,25 @@
         "by": "København",
         "postnummer": "2200"
     }
-}]
+},
+
+{
+    "navn":{
+        "fornavn" : "Julie",
+        "efternavn" : "Alstrup Therkelsen"
+    },
+    "alder" : 26,
+    "fødeslsdato" : "1998-11-19",
+    "studerende" : "true",
+
+    "interesser" : ["Træning", "Homebody", "Studie"],
+
+    "adresse":{
+        "vej" : "Hortensiavej",
+        "nr": 7,
+        "by" : "Frederiksberg C",
+        "postnummer" : 1857
+    }
+}
+
+]
