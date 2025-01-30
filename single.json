@@ -1,0 +1,10 @@
+[{
+    "navn": {
+        "fornavn": "Christian",
+        "efternavn": "Ditlevsen"
+    },
+    "alder": 30,
+    "studerende": true,
+    "interesser": ["Golf", "Musik", "Design"],
+    "fødselsdato": 21
+}]
