@@ -1,0 +1,18 @@
+{
+	"navne": {
+		"fornavn": "Yuleisy",
+		"efternavn": "Jensen"
+	},
+	"alder": 30,
+	"studernde": true,
+	"interesser": ["Design", "Medier", "Rejser"],
+	"adresse": {
+		"vej": "Vesterbro 12",
+		"by": "København N",
+		"postnummer": "2300"
+	},
+	"fødselsdato": "1994-05-15",
+	"skole-navn": "KEA",
+	"skole-år": 2,
+	"skole-årstilbage-antal": 1
+}
