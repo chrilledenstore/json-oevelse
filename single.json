@@ -1,32 +1,46 @@
-[{
-    "navn": {
-        "fornavn": "Christian",
-        "efternavn": "Ditlevsen"
-    },
-    "alder": 30,
-    "studerende": true,
-    "interesser": ["Golf", "Musik", "Design"],
-    "fødselsdato": 21
-}
+[
+	{
+		"navn": {
+			"fornavn": "Christian",
+			"efternavn": "Ditlevsen"
+		},
+		"alder": 30,
+		"studerende": true,
+		"interesser": ["Golf", "Musik", "Design"],
+		"fødselsdato": 21
+	},
 
-{
-    "navn": {
-        "fornavn": "Teis",
-        "mellemnavn": ["Zacho", "Kahr"],
-        "efternavn": "Thornberg"
-    },
-    "kontakt": [
-        {"telefon": "28125122"},
-        {"e-mail": "teiszacho@gmail.com"}
-    ],
-    "alder": 30,
-    "studerende": true, 
-    "arbejdsplads": "Berlingske Media",
-    "intersesser": ["madlavning", "musik", "sangskrivning"],
-    "adresse": {
-        "vej": "Sandbjerggade 27",
-        "lejlighed": "3TV",
-        "by": "København",
-        "postnummer": "2200"
-    }
-}]
+	{
+		"navn": {
+			"fornavn": "Teis",
+			"mellemnavn": ["Zacho", "Kahr"],
+			"efternavn": "Thornberg"
+		},
+		"kontakt": [{ "telefon": "28125122" }, { "e-mail": "teiszacho@gmail.com" }],
+		"alder": 30,
+		"studerende": true,
+		"arbejdsplads": "Berlingske Media",
+		"intersesser": ["madlavning", "musik", "sangskrivning"],
+		"adresse": {
+			"vej": "Sandbjerggade 27",
+			"lejlighed": "3TV",
+			"by": "København",
+			"postnummer": "2200"
+		}
+	},
+
+	{
+		"navne": {
+			"fornavn": "Yuleisy",
+			"efternavn": "C. R."
+		},
+		"alder": 41,
+		"studernde": true,
+		"interesser": ["Design", "Kodning", "Dance", "Rejser", "Music", "Familie"],
+		"adresse": {
+			"vej": "Vesterbro 12",
+			"by": "København N",
+			"postnummer": "2300"
+		}
+	}
+]
